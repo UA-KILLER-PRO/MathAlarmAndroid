@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Math-Alarm-master.iml" filepath="$PROJECT_DIR$/Math-Alarm-master.iml" group="Math-Alarm-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Math-Alarm-master-app.iml" filepath="$PROJECT_DIR$/app/Math-Alarm-master-app.iml" group="Math-Alarm-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/MathAlarm.iml" filepath="$PROJECT_DIR$/MathAlarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
